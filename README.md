@@ -1,2 +1,2 @@
 # bash_scripts
-bash scripts que fcilitam a minha vida
+bash scripts que tornam a minha vida mais simples.

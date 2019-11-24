@@ -4,4 +4,4 @@
 # padrao para pesquisar
 
 echo "find $1 -name \"*.$2\" -exec grep -li \"$3\" {} \;"
-find . -name "*.sh" -exec grep -li "$3" {} \;
+find $1 -name "*.$2" -exec grep -li "$3" {} \;
